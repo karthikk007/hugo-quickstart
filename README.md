@@ -34,3 +34,7 @@ Run either of the following
 hugo server --buildDrafts
 hugo server -D
 ```
+
+# copy content from the themes folder
+
+Changes will be reflected
