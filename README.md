@@ -38,3 +38,10 @@ hugo server -D
 # copy content from the themes folder
 
 Changes will be reflected
+
+
+# External links
+
+> [HUGO Docs](https://gohugo.io/documentation/)
+
+> [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
